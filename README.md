@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yethecreator" target="blank"><img src="https://img.shields.io/twitter/follow/yethecreator?logo=twitter&style=for-the-badge" alt="yethecreator" /></a> </p>
 
-<td >
-      <a href="https://app.daily.dev/jesusmachta"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
-    </td>
-
 - 🌱 I’m currently learning **AI, DL, ML, Facial Recognition, Web and Mobile Development**
 
 - 💬 Ask me about **React, Firebase, SQL**
