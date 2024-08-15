@@ -28,6 +28,12 @@
 
 [![jesusmachta's GitHub | Stats](https://stats.quira.sh/jesusmachta/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=jesusmachta)
 
+[![jesusmachta's GitHub | Topics Over Time](https://stats.quira.sh/jesusmachta/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jesusmachta)
+
+[![jesusmachta's GitHub | Languages Over Time](https://stats.quira.sh/jesusmachta/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jesusmachta)
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusmachta&show_icons=true&locale=en&layout=compact" alt="jesusmachta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmachta&show_icons=true&locale=en" alt="jesusmachta" /></p>
