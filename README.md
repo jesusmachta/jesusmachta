@@ -32,6 +32,7 @@
 
 [![jesusmachta's GitHub | Languages Over Time](https://stats.quira.sh/jesusmachta/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jesusmachta)
 
+[![jesusmachta's Stack Overflow | Stats](https://stats.quira.sh/jesusmachta/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=jesusmachta)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusmachta&show_icons=true&locale=en&layout=compact" alt="jesusmachta" /></p>
 
